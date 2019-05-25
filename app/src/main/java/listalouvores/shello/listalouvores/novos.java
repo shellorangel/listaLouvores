@@ -29,7 +29,9 @@ public class novos extends AppCompatActivity {
             "383 - A Oração",
             "634 - Glorioso é Jesus",
             "363 - Quando as lutas me cercam",
-            "729 - Os Teus anjos Te exaltam"
+            "729 - Os Teus anjos Te exaltam",
+            "709 - Resplandece oh Jerusalém",
+            "476 - Esta obra é de Deus"
 
 
 
